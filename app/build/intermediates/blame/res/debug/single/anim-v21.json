@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

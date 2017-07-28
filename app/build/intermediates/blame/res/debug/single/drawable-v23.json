@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

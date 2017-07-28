@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="152553316602895"
+    token="7018406435784277805"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="149188553258885"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Ziguel/Documents/workspace/ViagenZ/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="151087667879059"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="152099108642372"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="152553316602895"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/Ziguel/Documents/workspace/ViagenZ/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

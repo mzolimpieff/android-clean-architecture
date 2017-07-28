@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC1/c425e31eda1069f978a0e823ad50e567ab422656/gifdecoder-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c425e31eda1069f978a0e823ad50e567ab422656">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/gifdecoder-4.0.0-RC1_d72a399b6c7c269b047353473953ce14182dfe81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_9efffe4a70d104ff72e4b3f11eaefbd30d65c96c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC1/7baec7d5132e7343100a99630a56a6584a33addc/glide-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7baec7d5132e7343100a99630a56a6584a33addc">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/glide-4.0.0-RC1_721fefc5fd68386eb7e3d932b110c10f61c2194b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_6dd6c64f3db0b8d7a912bd5c322a0fbe7b396c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_2e91b5f766762e89aff785cada2b64f936910ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_7a499338748fc08aa7efe9686035721afa1e9c7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.3.1_ba291f239f6a4697478f312ea24bec2a618787b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/domain/build/libs/domain.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d05076feed3251b49568e54f65b0fd05a04cda6f">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/domain_d79763e24834bac3ee42137c27795985472c69a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC1/84c524dcd1a3088edd5560a8ac176eae1317f770/annotations-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84c524dcd1a3088edd5560a8ac176eae1317f770">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/annotations-4.0.0-RC1_5d7a2d25b47e62c4eae937f1b23de5f9636b2216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_2a347232f2ce22f96161767a985b197c34c39925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_79164ad61e03f088c921e475c171f77dcacd4457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_74f6c97c07e5066ef6a26d909fba2bd4b14b0246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_88280e884ff5232e1dca26e5f471da4e0534c083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_242be7a4a7387687c2a9e6a44c6e4f69f2842937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/viagenz/data/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abe599ea3c9e45dc15a9395786838ee0afdb7fb1">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/viagenz-data-unspecified_1a8027f02ec67f6d85dcc761d72cb85c6ba7c219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_d56dcc11bf00f2a99d82d37517a71079278d3960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_fc5b09f5a0b3943cd88adbf5079ae31188c228a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC1/1b4bba8f8d3df8db064c875c043c01e9ca3cdee9/disklrucache-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b4bba8f8d3df8db064c875c043c01e9ca3cdee9">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/disklrucache-4.0.0-RC1_56a393d3ca1be9f7d35b3f57a0ad70a0cfef0b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_c39a0f93ff5c2a9a117a5976272941155c27e4b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_3a000055f6f348b80ec7e386cd6caabaaad0c8e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_339139bbf47ab1951da1b87a8cfb3716ba33d69a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_2e00a2ca53975f4ecf54e4612d4b5824db11a2d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Matheus/Documents/workspace/viagenz/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_0173dedf5f81faa015984146bff9f5c2d50b437f.jar" />
+    </item>
+
+</items>
